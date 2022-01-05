@@ -20,3 +20,12 @@ git status
 git commit -m "first commit"
 
 git config
+
+git config user.email 0212otabek@gmail.com
+git config user.name OtabekQarshiboyev
+  
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+git config --local user.email "you@example.com"
+git config --local user.name "Your Name"
